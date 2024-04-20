@@ -1,0 +1,1 @@
+"# Build"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Carbona777/Build.gitgit push -u origin main
